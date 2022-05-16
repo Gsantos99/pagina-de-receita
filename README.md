@@ -32,8 +32,8 @@
 <li><a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target='_blank'> CSS </a></li>
 
 <h1 href='#autor'> Autor </h1>
-<img src='/assets/autor-photo.png' width='100px' height='100px' alt='foto do autor da página web' style="border-radius: 50%;">
+<img src='/assets/autor-photo.jpeg' width='100px' height='100px' alt='foto do autor da página web' style="border-radius: 50%;">
 <p> Giulyano Santos :rocket: </p>
 <br>
 <p> Feito com carinho por Giulyano Santos :wave: entre em contato: </p>
-<a href='https://www.linkedin.com/in/giulyano-santos-a92b6917b/' style='text-decoration:none;'> Linkedin </a>
+<a href='https://www.linkedin.com/in/giulyano-santos-a92b6917b/' style='text-decoration:none;' target='_blank'> Linkedin </a>
