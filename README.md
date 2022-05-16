@@ -13,6 +13,11 @@
  <a href="#autor">Autor</a>
 </p>
 
+
+<h1 align="center">
+  <img alt="Prévia do site" title="#paginadereceita" src="/assets/banner-projeto.png" />
+</h1>
+
 <h1 id="functions"> :hammer: Funcionalidades</h1>
 <p>Os visitantes da página poderão visualizar: </p>
 <li> Ingredietes </li>
