@@ -33,8 +33,7 @@
 
 <h1 href='#autor'> Autor </h1>
 <img src='' alt='foto do autor da página web' style="border-radius: 50%;">
-<br>
 <p> Giulyano Santos :rocket: </p>
 <br>
 <p> Feito com carinho por Giulyano Santos :wave: entre em contato: </p>
-[Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulyano-santos-a92b6917b/)](https://www.linkedin.com/in/giulyano-santos-a92b6917b/) 
+[!Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulyano-santos-a92b6917b/)](https://www.linkedin.com/in/giulyano-santos-a92b6917b/) 
