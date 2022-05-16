@@ -32,8 +32,8 @@
 <li><a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target='_blank'> CSS </a></li>
 
 <h1 href='#autor'> Autor </h1>
-<img src='' alt='foto do autor da página web' style="border-radius: 50%;">
+<img src='/assets/autor-photo.png' width='100px' height='100px' alt='foto do autor da página web' style="border-radius: 50%;">
 <p> Giulyano Santos :rocket: </p>
 <br>
 <p> Feito com carinho por Giulyano Santos :wave: entre em contato: </p>
-[!Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulyano-santos-a92b6917b/)](https://www.linkedin.com/in/giulyano-santos-a92b6917b/) 
+<a href='https://www.linkedin.com/in/giulyano-santos-a92b6917b/' style='text-decoration:none;'> Linkedin </a>
