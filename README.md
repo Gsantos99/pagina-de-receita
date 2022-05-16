@@ -23,7 +23,7 @@
 <li>  Modo de preparo </li>
 <li>  Informações adicionais </li>
 <li>  Localização dos supermercados mais próximos </li>
-<p> Minha contribuição ao projeto original foi a adição de um mapa ao final da página. Achei que seria muito útil aos visitantes, pois imaginei que: caso o leitor note que falta algum dos ingredientes em sua residência, poderá olhar de maneira fácil (sem precisar acessar outro site) a localização dos supermercados mais próximos.</p>
+<p> Minha contribuição ao projeto original foi a adição de um mapa ao final da página. Achei que seria muito útil aos visitantes, pois imaginei que caso o leitor note que falta algum dos ingredientes em sua residência, poderá olhar de maneira fácil (sem precisar acessar outro site) a localização dos supermercados mais próximos.</p>
 
 
 <h1 id="tecnologias"> :globe_with_meridians: Tecnologias</h1>
