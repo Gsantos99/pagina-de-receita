@@ -9,8 +9,8 @@
  <a href="#sobre">Sobre</a> •
  <a href="#functions">Funcionalidades</a> • 
  <a href="#tecnologias">Tecnologias</a> •  
+ <a href="#autor">Autor</a> •
  <a href="#licenca">Licença</a> • 
- <a href="#autor">Autor</a>
 </p>
 
 
@@ -24,9 +24,17 @@
 <li>  Modo de preparo </li>
 <li>  Informações adicionais </li>
 <li>  Localização dos supermercados mais próximos </li>
-<p> Caso o leitor note que falta algum dos ingredientes em sua residência, poderá olhar de maneira fácil (sem precisar acessar outro site) a localização dos supermercados mais próximos.</p>
+<p> Minha contribuição ao projeto original foi a adição de um mapa ao final da página. Achei que seria muito útil aos visitantes, pois imaginei que: caso o leitor note que falta algum dos ingredientes em sua residência, poderá olhar de maneira fácil (sem precisar acessar outro site) a localização dos supermercados mais próximos.</p>
 
 
+<h1 id="tecnologias"> :globe_with_meridians: Tecnologias</h1>
+<li><a href='https://developer.mozilla.org/en-US/docs/Web/HTML' target='_blank'> HTML </a></li>
+<li><a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target='_blank'> CSS </a></li>
 
-
-
+<h1 href='#autor'> Autor </h1>
+<img src='' alt='foto do autor da página web' style="border-radius: 50%;">
+<br>
+<p> Giulyano Santos :rocket: </p>
+<br>
+<p> Feito com carinho por Giulyano Santos :wave: entre em contato: </p>
+[Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulyano-santos-a92b6917b/)](https://www.linkedin.com/in/giulyano-santos-a92b6917b/) 
