@@ -1,0 +1,140 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+:root {
+  background-color: #eaeaea;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #eaeaea;
+  font-family: 'Roboto', sans-serif;
+  padding:3rem;
+}
+
+
+
+h1,
+h2 {
+  color: #1b1b1b;
+  text-align:center;
+}
+
+.img {
+  width:min(45rem,100%); 
+  height:25rem;
+  border-radius: 0.62rem;
+  margin-top:2rem;
+}
+
+
+.white-pag {
+  width: min(50rem, 100%);
+  margin-inline: auto;
+  padding-inline: 2.4rem;
+  padding-top: 4rem;
+  background-color: white;
+  border-radius: 0.62rem;
+}
+
+h1 {
+  font-size:1.75rem;
+}
+
+h2 {
+  font-size:1.25rem;
+}
+
+
+p {
+  color: #39393a;
+}
+
+.ingredientes ul li {
+  line-height:2.8rem;
+  list-style-position: outside;
+  list-style-type: disc;
+}
+
+.modo-de-preparo {
+  line-height: 2rem;
+}
+
+
+
+.ingredientes, .modo-de-preparo, .info-adicionais, .mapa-section {
+  margin-top: 2.5rem;
+  padding-bottom:2.5rem;
+  
+}
+
+#mapa-section { 
+  width:min(50rem, 100%);
+  height:25rem;
+  border-radius: 0.62rem;
+}
+
+ul, p {
+  font-size: 1.0rem;
+}
+
+figcaption {
+  color:#8F8F8F;
+  font-size:1.2rem;
+  text-align: right;
+}
+
+footer {
+  color:#8F8F8F;
+  font-size:0.75rem;
+  padding-block:2rem ;
+  text-align: center;
+  
+}
+
+a {
+  text-decoration: none;
+}
+
+#backToTop {
+  position:fixed;
+  bottom:5rem;
+  right:2.5rem;
+
+}
+
+@media (min-width: 1024px) {
+  
+  body {
+    overflow: auto;
+  }
+
+  .white-pag, .img, .mapa-section {
+    width: min(50rem, 100%);
+  }
+
+  section {
+    padding-block:1rem;
+  }
+
+  section header h2 {
+    font-size: 4rem;
+    line-height: 5.2rem;
+  }
+
+}
+
+@media (min-width:529) {
+  #backToTop {
+    bottom:5rem;
+    right:0.75rem;
+  }
+}
