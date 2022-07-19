@@ -1,10 +1,8 @@
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
 
 :root {
   background-color: #eaeaea;
@@ -12,59 +10,48 @@
 
 html {
   scroll-behavior: smooth;
+  font-size: 100%;
 }
 
 body {
   background: #eaeaea;
   font-family: 'Edu TAS beginner', sans-serif;
-  padding:3rem;
+  padding: 3rem;
   height: 100vh;
   width: 100vw;
   overflow-x: hidden;
 }
 
-
 h1,
 h2 {
   color: #1b1b1b;
-  text-align:center;
+  text-align: center;
 }
 
 .img {
-  width: 85%; 
+  width: 85%;
   height: 50%;
   border-radius: 0.62rem;
-  margin-top:1em;
-  margin-bottom:1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
   margin-inline: 4em;
 }
 
-
 .white-pag {
- width:80%;
- margin: 0 auto;
-  padding-inline: 2.4rem;
+  width: 80%;
+  margin: 0 auto;
+  padding-inline: 0.85rem;
   padding-top: 4rem;
   background-color: white;
   border-radius: 0.62rem;
-
 }
-
-h1 {
-  font-size:2.5rem;
-}
-
-h2 {
-  font-size:1.75rem;
-}
-
 
 p {
   color: #39393a;
 }
 
 .ingredientes ul li {
-  line-height:2.8rem;
+  line-height: 2.8rem;
   list-style-position: outside;
   list-style-type: disc;
 }
@@ -73,37 +60,37 @@ p {
   line-height: 2rem;
 }
 
-
-
-.ingredientes, .modo-de-preparo, .info-adicionais, .mapa-section {
+.ingredientes,
+.modo-de-preparo,
+.info-adicionais,
+.mapa-section {
   margin-top: 2.5rem;
-  padding-bottom:2.5rem;
-  
+  padding-bottom: 2.5rem;
 }
 
-#mapa-section { 
-  width:50rem;
-  height:25rem;
+#mapa-section {
+  width: 50rem;
+  height: 25rem;
   border-radius: 0.62rem;
 }
 
-ul, p, ol {
-  font-size: 1.0rem;
-  margin-left:2em;
+ul,
+p,
+ol {
+  margin-left: 2em;
 }
 
 figcaption {
-  color:#8F8F8F;
-  font-size:1.2rem;
+  color: #8f8f8f;
+  font-size: 1.2rem;
   text-align: center;
 }
 
 footer {
-  color:#8F8F8F;
-  font-size:1rem;
-  padding-block:2rem ;
+  color: #8f8f8f;
+  font-size: 1rem;
+  padding-block: 2rem;
   text-align: center;
-  
 }
 
 a {
@@ -111,49 +98,150 @@ a {
 }
 
 #backToTop {
-  position:fixed;
-  bottom:5rem;
-  right:2.5rem;
-
+  position: fixed;
+  bottom: 5rem;
+  right: 2.5rem;
 }
 
+@media (max-width: 320px) {
+  html {
+    font-size: 75%;
+  }
 
-@media (max-width:320px)  {
- html{
-  font-size:75%; 
- }
- 
- .white-pag{
-  width:85vw;
- }
+  .white-pag {
+    width: 85vw;
+    margin: 0 auto;
+  }
 
-.img {
-  width:85%;
-  height:85%;
-  margin-top:1em;
-  margin-bottom:1em;
-  margin-inline:2.5em;
+  .img {
+    width: 85%;
+    height: 85%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-inline: 2.5em;
+  }
+
+  #map-section {
+    border-radius: 0.62px;
+  }
 }
 
+@media (max-width: 375px) {
+  html {
+    font-size: 75%;
+  }
+
+  .white-pag {
+    width: 85vw;
+    margin: 0 auto;
+  }
+
+  .img {
+    width: 85%;
+    height: 85%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-inline: 2.5em;
+  }
+
+  #map-section {
+    border-radius: 0.62px;
+  }
 }
 
-@media (max-width:375px) {
+@media (max-width: 425px) {
+  html {
+    font-size: 75%;
+  }
 
+  .white-pag {
+    width: 85vw;
+    margin: 0 auto;
+  }
+
+  .img {
+    width: 85%;
+    height: 85%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-inline: 2.5em;
+  }
+
+  #map-section {
+    border-radius: 0.62px;
+  }
 }
 
-@media (max-width:425px) {
+@media (max-width: 768px) {
+  html {
+    font-size: 75%;
+  }
+
+  .white-pag {
+    width: 85vw;
+    margin: 0 auto;
+  }
+
+  .img {
+    width: 85%;
+    height: 85%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-inline: 2.5em;
+  }
+
+  #map-section {
+    border-radius: 0.62px;
+  }
 }
 
-@media (max-width:768px) {
-}
+@media (max-width: 1024px) {
+  html {
+    font-size: 75%;
+  }
 
-@media (max-width:1024px) {
+  .white-pag {
+    width: 85vw;
+    margin: 0 auto;
+  }
 
-  figcaption {
+  .img {
+    width: 85%;
+    height: 85%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-inline: 2.5em;
+  }
+
+  #map-section {
+    border-radius: 0.62px;
+  }
+
+figcaption {
   text-align: center;
 }
 
 }
 
-@media (max-width:1440px) {
+@media (max-width: 1440px) {
+  html {
+    font-size: 75%;
+  }
+
+  .white-pag {
+    width: 85vw;
+    margin: 0 auto;
+  }
+
+  .img {
+    width: 85%;
+    height: 85%;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-inline: 2.5em;
+  }
+
+  #map-section {
+    border-radius: 0.62px;
+  }
 }
