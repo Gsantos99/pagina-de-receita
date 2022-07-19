@@ -14,7 +14,7 @@
 
 
 <h1 align="center">
-  <img alt="Prévia do site" title="#paginadereceita" src="/assets/banner-projeto.png" />
+  <img alt="Prévia do site" title="#paginadereceita" src="/assets/banner-github.png" />
 </h1>
 
 <h1 id="functions"> :hammer: Funcionalidades</h1>
